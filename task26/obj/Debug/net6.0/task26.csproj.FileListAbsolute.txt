@@ -1,0 +1,15 @@
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.csproj.AssemblyReference.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.AssemblyInfoInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.AssemblyInfo.cs
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.csproj.CoreCompileInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task26\bin\Debug\net6.0\task26.exe
+C:\Программирование CSharp\Семинары\Семинар 5\task26\bin\Debug\net6.0\task26.deps.json
+C:\Программирование CSharp\Семинары\Семинар 5\task26\bin\Debug\net6.0\task26.runtimeconfig.json
+C:\Программирование CSharp\Семинары\Семинар 5\task26\bin\Debug\net6.0\task26.dll
+C:\Программирование CSharp\Семинары\Семинар 5\task26\bin\Debug\net6.0\task26.pdb
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.dll
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\refint\task26.dll
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.pdb
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\task26.genruntimeconfig.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task26\obj\Debug\net6.0\ref\task26.dll

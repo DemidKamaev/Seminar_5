@@ -1,0 +1,15 @@
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\bin\Debug\net6.0\task25dz.exe
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\bin\Debug\net6.0\task25dz.deps.json
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\bin\Debug\net6.0\task25dz.runtimeconfig.json
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\bin\Debug\net6.0\task25dz.dll
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\bin\Debug\net6.0\task25dz.pdb
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.csproj.AssemblyReference.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.AssemblyInfoInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.AssemblyInfo.cs
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.csproj.CoreCompileInputs.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.dll
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\refint\task25dz.dll
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.pdb
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\task25dz.genruntimeconfig.cache
+C:\Программирование CSharp\Семинары\Семинар 5\task25dz\obj\Debug\net6.0\ref\task25dz.dll
